@@ -1,0 +1,131 @@
+
+.product-page {
+    text-align: center;
+    background-color: skyblue;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ margin: auto;
+  }
+  h1{
+    margin: auto;
+    font-size: 80px;
+    justify-content: center;
+  }
+  .header{
+    display: flex;
+    align-items: center;
+  
+    
+  }
+   .list{
+margin: auto;
+margin-left: 0px;
+margin-right:0px;
+    font-size: 30px;
+    justify-content: center;
+  
+    
+  }
+  .list1{
+    margin-right: 60px;
+    color: aqua;
+  }
+  .list2{
+    margin-right: 60px;
+    color: aqua
+  }
+  .list3{
+    margin-right:60px ;
+    color: aqua
+}
+  li{
+    display: inline-block;
+  }
+  .company{
+    background-color: black;
+    color: aqua;
+  }
+  .content-container {
+    display: flex;
+   
+    justify-content: center;
+    align-items: flex-start;
+    background-color: black;
+    color: rgb(226, 240, 240);
+  }
+  
+  .image-container {
+    margin-right: 20px;
+    margin-top: 10px;
+   background-color: black;
+  }
+  
+  .info-container {
+    text-align: left;
+  }
+  
+  .btn-container {
+    margin-bottom: 0px;
+
+  }
+  
+  .btn-container button {
+    margin-right: 10px;
+    
+    
+  }
+  .red_btn{
+    border-radius: 14px;
+    background-color: red;
+    border-color: red;
+    color:red;
+    margin-left: 10px;
+  } .blue_btn{
+    border-radius: 14px;
+    background-color: blue;
+    border-color: blue;
+    color: blue;
+  } .black_btn{
+    border-radius: 14px;
+    background-color: black;
+    border-color: black;
+  } .yellow_btn{
+    border-radius: 14px;
+  color: yellow;
+    background-color: yellow;
+    border-color: yellow;
+}
+  
+  .price {
+    font-size: 20px;
+    display: flex;
+  }
+  .buy{
+    margin-bottom: 30px;
+    border-radius: 15px;
+    background-color: rgb(18, 151, 156);
+    height: 40px;
+
+  }
+  .color-type{
+    border-spacing: 2px;
+    display: flex;
+align-items: center;
+  }
+  .quan{
+    display: flex;
+    align-items: center;
+  }
+  .btn-size{
+    margin-left: 5px !important;
+    border-collapse:collapse ;
+  
+  }
+.size{
+    display: flex;
+    align-items: center;
+}
+ 
+select{
+    margin-left: 10px;
+}
+  
